@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StepByStep.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerHandler.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/StepByStep.cs" Line="199" Column="34" />
+      <File FileName="Assets/Scripts/TileMove.cs" Line="21" Column="53" />
+      <File FileName="Assets/Editor/BuildAssetsBundle.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

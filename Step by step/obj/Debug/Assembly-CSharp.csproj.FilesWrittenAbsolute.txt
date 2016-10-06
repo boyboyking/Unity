@@ -1,0 +1,17 @@
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/UnityEngine.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/UnityEditor.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/obj/Debug/Assembly-CSharp.dll
+/Users/Wei/Documents/WorkSpace/Unity/Step by step/obj/Debug/Assembly-CSharp.dll.mdb
